@@ -1,0 +1,42 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-wrap: wrap;
+    font-family: "Noto Sans Mono", monospace;
+    background-color: #21153b;
+    color: #cbafe0;
+}
+
+ul, ol {
+    text-align: left;
+}
+
+#links {
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    padding: 15px;
+    background-color: #43324d;
+    height: auto;
+    width: fit-content;
+    max-width: 50%;
+}
+
+footer {
+    font-size: 7px;
+}
+
+a {
+    color: #9175e0;
+    text-decoration: none;
+}
+
+a:active, a:hover {
+    font-style: italic;
+}
