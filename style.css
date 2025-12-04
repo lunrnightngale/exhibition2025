@@ -4,8 +4,8 @@ body {
     text-align: center;
     text-wrap: wrap;
     font-family: "Noto Sans Mono", monospace;
-    background-color: #21153b;
-    color: #cbafe0;
+    background-color: #FFFBF4;
+    color: #0E013C;
 }
 
 ul, ol {
@@ -22,7 +22,7 @@ ul, ol {
     margin-right: auto;
     border-radius: 25px;
     padding: 15px;
-    background-color: #43324d;
+    background-color: #AAC2DA;
     height: auto;
     width: fit-content;
     max-width: 50%;
@@ -33,7 +33,7 @@ footer {
 }
 
 a {
-    color: #9175e0;
+    color: #402A90;
     text-decoration: none;
 }
 
