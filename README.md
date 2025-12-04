@@ -1,6 +1,8 @@
 **04-12-2025*
+<br>
 DONE:
--implemented about, txt, and game .htmls plus the index
+<br>
+<li>implemented about, txt, and game .htmls plus the index</li>
 -fixed the download link for the summary .epub code placeholder
 -added subpage hyperlinks
 -added document hyperlink to index.html (temporary)
