@@ -4,8 +4,8 @@ function code() {
 
 window.onload = code;
 function openNav() {
-  document.getElementById("mySidebar").style.width = "250px";
-  document.getElementById("main").style.marginLeft = "250px";
+  document.getElementById("mySidebar").style.width = "30";
+  document.getElementById("main").style.marginLeft = "30";
 }
 
 /* Set the width of the sidebar to 0 and the left margin of the page content to 0 */
