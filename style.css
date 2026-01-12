@@ -5,7 +5,7 @@ body {
     text-wrap: wrap;
     font-family: "Noto Sans Mono", monospace;
     background-color: #F7FCFF;
-    color: #0E013C;
+    color: #F7FCFF;
 }
 
 ul, ol {
@@ -33,7 +33,7 @@ footer {
 }
 
 a {
-    color: #402A90;
+    color: #F7FCFF;
     text-decoration: none;
 }
 
