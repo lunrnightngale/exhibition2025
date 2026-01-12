@@ -1,12 +1,4 @@
-.text {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    text-wrap: wrap;
-    font-family: "Noto Sans Mono", monospace;
-    background-color: #F7FCFF;
-    color: #D7EBE5;
-}
+
 
 ul, ol {
     text-align: left;
@@ -27,7 +19,8 @@ ul, ol {
     margin-right: auto;
     border-radius: 25px;
     padding: 15px;
-    background-color: #001034;
+    background-color: #001034;\
+    color: #D7EBE5;
     height: auto;
     width: 50%;
     max-width: 50%;
