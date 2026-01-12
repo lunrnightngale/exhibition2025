@@ -4,7 +4,7 @@ body {
     text-align: center;
     text-wrap: wrap;
     font-family: "Noto Sans Mono", monospace;
-    background-color: ##F7FCFF;
+    background-color: #F7FCFF;
     color: #0E013C;
 }
 
@@ -22,7 +22,7 @@ ul, ol {
     margin-right: auto;
     border-radius: 25px;
     padding: 15px;
-    background-color: #4C4078;
+    background-color: #001034;
     height: auto;
     width: 50%;
     max-width: 50%;
